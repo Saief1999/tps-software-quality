@@ -5,109 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="daa2214e-e365-4374-806f-d098071a1283" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/act1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/DIP/example/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/DIP/example/Equipment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/DIP/example/Lamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/DIP/exercice/DatabaseWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/DIP/exercice/EncodingModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/DIP/exercice/EncodingModuleClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/DIP/exercice/FileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/DIP/exercice/FileWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/DIP/exercice/IReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/DIP/exercice/IWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/DIP/exercice/MyDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/DIP/exercice/NetworkReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/DIP/exercice/beforeEncryption.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/ISP/example/Feedable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/ISP/example/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/ISP/example/MessHall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/ISP/example/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/ISP/example/Workable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/ISP/exercice/Door.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/ISP/exercice/Sensing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/ISP/exercice/SensingDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/ISP/exercice/Sensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/ISP/exercice/Timed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/ISP/exercice/TimedDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/ISP/exercice/Timer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/LSP/example/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/LSP/example/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/LSP/exercice/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/LSP/exercice/ElectronicDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/LSP/exercice/IDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/LSP/exercice/Pool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/OCP/example/AreaCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/OCP/example/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/OCP/example/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/OCP/example/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/OCP/exercice/Resource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/OCP/exercice/ResourceAllocator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/OCP/exercice/SpaceResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/OCP/exercice/TimeResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/SRP/example/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/SRP/example/EmployeeParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/SRP/example/TagBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/SRP/exercice/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/SRP/exercice/CarDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/SRP/exercice/CarFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/SRP/exercice/CarManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act1/src/SRP/exercice/CarRater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act2/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act2/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act2/act2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act2/src/DIP/Emailer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act2/src/DIP/Notifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act2/src/DIP/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act2/src/DIP/WeatherTracker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act2/src/ISP/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act2/src/ISP/Feathered.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act2/src/ISP/Flying.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act2/src/ISP/Penguin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act2/src/ISP/Swimming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act2/src/LSP/BedroomAdder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act2/src/LSP/PenthouseSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act2/src/LSP/Studio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act2/src/OCP/CasualGreeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act2/src/OCP/FormalGreeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act2/src/OCP/Greeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act2/src/OCP/IntimateGreeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act2/src/SRP/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act2/src/SRP/BoardFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp1/act2/src/SRP/BoardTrasformer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp2/act2/HelloSelenium/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp2/act2/HelloSelenium/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp2/act2/HelloSelenium/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp2/act2/HelloSelenium/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp2/act2/HelloSelenium/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tp2/act2/HelloSelenium/src/main/java/com/tunisianet/iso/TunisianetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../act1/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../act1/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../act1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../act1/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../act1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../act1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../act1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../act1/src/test/java/TodoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TodoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/TodoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../act1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../act1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../act1/src/test/java/TodoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../act1/src/test/java/TodoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TodoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TodoTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,6 +75,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

@@ -18,9 +18,20 @@ public class TodoTest {
     private WebDriverWait webDriverWait;
     private Actions actions;
 
+    /**
+     * Waits then returns an element
+     * @param locator
+     * @return
+     */
     private WebElement waitAndFindElement(By locator) {
         return webDriverWait.until(ExpectedConditions.presenceOfElementLocated(locator));
     }
+
+    /**
+     * Gets the checkbox for an item in the todo list
+     * @param itemName
+     * @return
+     */
     private WebElement getItemCheckbox(String itemName) {
         WebElement checkbox = waitAndFindElement(By.xpath(String.format("//label[text()='%s']/preceding-sibling::input",itemName)));
         return checkbox;
@@ -72,17 +83,29 @@ public class TodoTest {
         assertLeftItems(2);
     }
 
+    /**
+     * Opens a technology from the list
+     * @param technologyName
+     */
     private void openTechnologyApp(String technologyName) {
         WebElement technologyLink = waitAndFindElement(By.linkText(technologyName));
         technologyLink.click();
     }
 
+    /**
+     * Adds a new Item
+     * @param itemName
+     */
     private void addNewTodoItem(String itemName) {
         WebElement todoInput = waitAndFindElement(By.xpath("//input[@placeholder='What needs to be done?']"));
         todoInput.sendKeys(itemName);
         actions.click(todoInput).sendKeys(Keys.ENTER).perform();
     }
 
+    /**
+     * Tests whether the number of left items corresponds to the provided number
+     * @param numLeftItems
+     */
     private void assertLeftItems(int numLeftItems) {
 
         WebElement footer = waitAndFindElement(By.xpath("//footer/*/span | //footer/span"));
